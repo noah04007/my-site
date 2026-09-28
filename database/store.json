@@ -1,0 +1,3462 @@
+{
+  "users": [
+    {
+      "id": "guest-dd425454",
+      "email": "guest-dd425454@winterarc.app",
+      "name": "Winter Disciple",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Consistency over perfection. Building the best version of myself.",
+      "level": 5,
+      "xp": 2235,
+      "currentStreak": 17,
+      "longestStreak": 21,
+      "isGuest": true,
+      "createdAt": "2026-09-28T19:34:10.703Z",
+      "updatedAt": "2026-09-28T19:34:11.011Z"
+    },
+    {
+      "id": "guest-ab0a61d7",
+      "email": "guest-ab0a61d7@winterarc.app",
+      "name": "Winter Disciple",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Consistency over perfection. Building the best version of myself.",
+      "level": 5,
+      "xp": 2275,
+      "currentStreak": 17,
+      "longestStreak": 21,
+      "isGuest": true,
+      "createdAt": "2026-09-28T19:34:11.060Z",
+      "updatedAt": "2026-09-28T19:34:11.316Z"
+    },
+    {
+      "id": "guest-f186230e",
+      "email": "guest-f186230e@winterarc.app",
+      "name": "Winter Disciple",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Consistency over perfection. Building the best version of myself.",
+      "level": 5,
+      "xp": 2235,
+      "currentStreak": 17,
+      "longestStreak": 21,
+      "isGuest": true,
+      "createdAt": "2026-09-28T19:43:15.386Z",
+      "updatedAt": "2026-09-28T19:43:15.921Z"
+    },
+    {
+      "id": "guest-111cec84",
+      "email": "guest-111cec84@winterarc.app",
+      "name": "Winter Disciple",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Consistency over perfection. Building the best version of myself.",
+      "level": 5,
+      "xp": 2250,
+      "currentStreak": 17,
+      "longestStreak": 21,
+      "isGuest": true,
+      "createdAt": "2026-09-28T19:43:15.937Z",
+      "updatedAt": "2026-09-28T19:46:25.751Z"
+    },
+    {
+      "id": "d533479a-ffa1-4576-b0b0-2f0fd34222e7",
+      "email": "user_google_1790625147524@winterarc.app",
+      "name": "Google Disciple",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=user_google_1790625147524@winterarc.app",
+      "bio": "Embracing the cold. Finding my true power.",
+      "level": 1,
+      "xp": 0,
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "isGuest": false,
+      "createdAt": "2026-09-28T19:52:27.524Z",
+      "updatedAt": "2026-09-28T19:52:27.524Z"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "title": "Winter Arc 2026",
+      "seasonName": "Winter Arc",
+      "durationDays": 90,
+      "intensity": "Balanced",
+      "mainGoal": "I want to become more disciplined, improve my English, exercise regularly and take better care of myself.",
+      "categories": [
+        "Fitness",
+        "Studies",
+        "Discipline",
+        "Health",
+        "Mental wellbeing"
+      ],
+      "startDate": "2026-09-12",
+      "endDate": "2026-12-11",
+      "isActive": true,
+      "status": "active",
+      "createdAt": "2026-09-12T19:34:10.705Z"
+    },
+    {
+      "id": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "title": "Winter Arc 2026",
+      "seasonName": "Winter Arc",
+      "durationDays": 90,
+      "intensity": "Balanced",
+      "mainGoal": "I want to become more disciplined, improve my English, exercise regularly and take better care of myself.",
+      "categories": [
+        "Fitness",
+        "Studies",
+        "Discipline",
+        "Health",
+        "Mental wellbeing"
+      ],
+      "startDate": "2026-09-12",
+      "endDate": "2026-12-11",
+      "isActive": false,
+      "status": "active",
+      "createdAt": "2026-09-12T19:34:11.062Z"
+    },
+    {
+      "id": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "title": "Winter Arc 2026",
+      "seasonName": "Winter Arc",
+      "durationDays": 90,
+      "intensity": "Balanced",
+      "mainGoal": "I want to become more disciplined, improve my English, exercise regularly and take better care of myself.",
+      "categories": [
+        "Fitness",
+        "Discipline",
+        "Studies",
+        "Health"
+      ],
+      "startDate": "2026-09-28",
+      "endDate": "2026-12-27",
+      "isActive": true,
+      "status": "active",
+      "createdAt": "2026-09-28T19:37:08.335Z"
+    },
+    {
+      "id": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "title": "Winter Arc 2026",
+      "seasonName": "Winter Arc",
+      "durationDays": 90,
+      "intensity": "Balanced",
+      "mainGoal": "I want to become more disciplined, improve my English, exercise regularly and take better care of myself.",
+      "categories": [
+        "Fitness",
+        "Studies",
+        "Discipline",
+        "Health",
+        "Mental wellbeing"
+      ],
+      "startDate": "2026-09-12",
+      "endDate": "2026-12-11",
+      "isActive": true,
+      "status": "active",
+      "createdAt": "2026-09-12T19:43:15.388Z"
+    },
+    {
+      "id": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "title": "Winter Arc 2026",
+      "seasonName": "Winter Arc",
+      "durationDays": 90,
+      "intensity": "Balanced",
+      "mainGoal": "I want to become more disciplined, improve my English, exercise regularly and take better care of myself.",
+      "categories": [
+        "Fitness",
+        "Studies",
+        "Discipline",
+        "Health",
+        "Mental wellbeing"
+      ],
+      "startDate": "2026-09-12",
+      "endDate": "2026-12-11",
+      "isActive": true,
+      "status": "active",
+      "createdAt": "2026-09-12T19:43:15.940Z"
+    }
+  ],
+  "habits": [
+    {
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "name": "Workout",
+      "icon": "Dumbbell",
+      "category": "Fitness",
+      "frequency": "daily",
+      "targetTime": "07:30",
+      "daysPerWeek": 5,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isPaused": false,
+      "orderIndex": 0,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "id": "h-eb4db9fd"
+    },
+    {
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "name": "Read 20 minutes",
+      "icon": "BookOpen",
+      "category": "Reading",
+      "frequency": "daily",
+      "targetTime": "21:30",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 1,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "id": "h-49b538eb"
+    },
+    {
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "name": "Practice English",
+      "icon": "Languages",
+      "category": "Studies",
+      "frequency": "daily",
+      "targetTime": "18:00",
+      "daysPerWeek": 6,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 2,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "id": "h-3f68e02a"
+    },
+    {
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "name": "Drink 2L water",
+      "icon": "Droplets",
+      "category": "Health",
+      "frequency": "daily",
+      "targetTime": "12:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 3,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "id": "h-ffef5f5e"
+    },
+    {
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "name": "Daily Journal",
+      "icon": "PenTool",
+      "category": "Mental wellbeing",
+      "frequency": "daily",
+      "targetTime": "22:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 4,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "id": "h-00389607"
+    },
+    {
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "name": "Sleep before 11 PM",
+      "icon": "Moon",
+      "category": "Sleep",
+      "frequency": "daily",
+      "targetTime": "23:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 5,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "id": "h-5e6bccd6"
+    },
+    {
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "name": "Workout",
+      "icon": "Dumbbell",
+      "category": "Fitness",
+      "frequency": "daily",
+      "targetTime": "07:30",
+      "daysPerWeek": 5,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isPaused": false,
+      "orderIndex": 0,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "id": "h-ddbd3343"
+    },
+    {
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "name": "Read 20 minutes",
+      "icon": "BookOpen",
+      "category": "Reading",
+      "frequency": "daily",
+      "targetTime": "21:30",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 1,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "id": "h-33fa5733"
+    },
+    {
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "name": "Practice English",
+      "icon": "Languages",
+      "category": "Studies",
+      "frequency": "daily",
+      "targetTime": "18:00",
+      "daysPerWeek": 6,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 2,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "id": "h-0a31ff4d"
+    },
+    {
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "name": "Drink 2L water",
+      "icon": "Droplets",
+      "category": "Health",
+      "frequency": "daily",
+      "targetTime": "12:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 3,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "id": "h-c42f6369"
+    },
+    {
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "name": "Daily Journal",
+      "icon": "PenTool",
+      "category": "Mental wellbeing",
+      "frequency": "daily",
+      "targetTime": "22:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 4,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "id": "h-6146e688"
+    },
+    {
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "name": "Sleep before 11 PM",
+      "icon": "Moon",
+      "category": "Sleep",
+      "frequency": "daily",
+      "targetTime": "23:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 5,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "id": "h-4ceaf840"
+    },
+    {
+      "id": "h-708ba4fb",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "name": "Drink 2L water",
+      "icon": "Droplets",
+      "category": "Health",
+      "frequency": "daily",
+      "targetTime": "12:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 0,
+      "createdAt": "2026-09-28T19:37:08.361Z"
+    },
+    {
+      "id": "h-2b4dda7d",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "name": "Daily Workout",
+      "icon": "Dumbbell",
+      "category": "Fitness",
+      "frequency": "daily",
+      "targetTime": "07:30",
+      "daysPerWeek": 5,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 1,
+      "createdAt": "2026-09-28T19:37:08.381Z"
+    },
+    {
+      "id": "h-a1e3e76e",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "name": "Read 20 minutes",
+      "icon": "BookOpen",
+      "category": "Reading",
+      "frequency": "daily",
+      "targetTime": "21:30",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 2,
+      "createdAt": "2026-09-28T19:37:08.404Z"
+    },
+    {
+      "id": "h-7c929ccf",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "name": "Practice English",
+      "icon": "Languages",
+      "category": "Studies",
+      "frequency": "daily",
+      "targetTime": "18:00",
+      "daysPerWeek": 6,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 3,
+      "createdAt": "2026-09-28T19:37:08.424Z"
+    },
+    {
+      "id": "h-7f482f3d",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "name": "Daily Journal",
+      "icon": "PenTool",
+      "category": "Mental wellbeing",
+      "frequency": "daily",
+      "targetTime": "22:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 4,
+      "createdAt": "2026-09-28T19:37:08.457Z"
+    },
+    {
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "name": "Workout",
+      "icon": "Dumbbell",
+      "category": "Fitness",
+      "frequency": "daily",
+      "targetTime": "07:30",
+      "daysPerWeek": 5,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isPaused": false,
+      "orderIndex": 0,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "id": "h-28a70dd5"
+    },
+    {
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "name": "Read 20 minutes",
+      "icon": "BookOpen",
+      "category": "Reading",
+      "frequency": "daily",
+      "targetTime": "21:30",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 1,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "id": "h-dddf4b2a"
+    },
+    {
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "name": "Practice English",
+      "icon": "Languages",
+      "category": "Studies",
+      "frequency": "daily",
+      "targetTime": "18:00",
+      "daysPerWeek": 6,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 2,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "id": "h-71e471e1"
+    },
+    {
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "name": "Drink 2L water",
+      "icon": "Droplets",
+      "category": "Health",
+      "frequency": "daily",
+      "targetTime": "12:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 3,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "id": "h-2af3d790"
+    },
+    {
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "name": "Daily Journal",
+      "icon": "PenTool",
+      "category": "Mental wellbeing",
+      "frequency": "daily",
+      "targetTime": "22:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 4,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "id": "h-b9b10a4d"
+    },
+    {
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "name": "Sleep before 11 PM",
+      "icon": "Moon",
+      "category": "Sleep",
+      "frequency": "daily",
+      "targetTime": "23:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 5,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "id": "h-a7bf5cba"
+    },
+    {
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "name": "Workout",
+      "icon": "Dumbbell",
+      "category": "Fitness",
+      "frequency": "daily",
+      "targetTime": "07:30",
+      "daysPerWeek": 5,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isPaused": false,
+      "orderIndex": 0,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "id": "h-d03a01d3"
+    },
+    {
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "name": "Read 20 minutes",
+      "icon": "BookOpen",
+      "category": "Reading",
+      "frequency": "daily",
+      "targetTime": "21:30",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 1,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "id": "h-29bfc00c"
+    },
+    {
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "name": "Practice English",
+      "icon": "Languages",
+      "category": "Studies",
+      "frequency": "daily",
+      "targetTime": "18:00",
+      "daysPerWeek": 6,
+      "activeDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 2,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "id": "h-20d88f96"
+    },
+    {
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "name": "Drink 2L water",
+      "icon": "Droplets",
+      "category": "Health",
+      "frequency": "daily",
+      "targetTime": "12:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 3,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "id": "h-d304b5be"
+    },
+    {
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "name": "Daily Journal",
+      "icon": "PenTool",
+      "category": "Mental wellbeing",
+      "frequency": "daily",
+      "targetTime": "22:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 4,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "id": "h-e9c52689"
+    },
+    {
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "name": "Sleep before 11 PM",
+      "icon": "Moon",
+      "category": "Sleep",
+      "frequency": "daily",
+      "targetTime": "23:00",
+      "daysPerWeek": 7,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isPaused": false,
+      "orderIndex": 5,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "id": "h-ff4c100b"
+    }
+  ],
+  "habitCompletions": [
+    {
+      "id": "9035e63f-a119-4f68-97da-f069b5d32a7c",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:10.710Z"
+    },
+    {
+      "id": "16a9fabb-307b-4cd2-a998-a665d2f26038",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:10.722Z"
+    },
+    {
+      "id": "896777dd-8300-4f35-8b65-6aa8041240d8",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:10.725Z"
+    },
+    {
+      "id": "01098dcd-ce6a-4f18-8a5d-7d89bb381456",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:10.728Z"
+    },
+    {
+      "id": "c77f8322-3d2b-4c56-bdf5-d25ff868f0e6",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:10.730Z"
+    },
+    {
+      "id": "8871a4b4-8098-4d89-8141-e5e22b80b19c",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:10.734Z"
+    },
+    {
+      "id": "7be82be6-c68d-4308-9253-8c15f11b24aa",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:10.736Z"
+    },
+    {
+      "id": "66fc1e70-6751-4e61-8510-dfbaa64fc9cf",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:10.741Z"
+    },
+    {
+      "id": "4cb4e5b4-a6a4-401d-bc81-6a1fdfaef520",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:10.745Z"
+    },
+    {
+      "id": "40810eb7-9d82-458b-9a27-ced7d2ec5f43",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:10.749Z"
+    },
+    {
+      "id": "de9963e2-b609-4b98-89f5-8a4414734880",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:10.753Z"
+    },
+    {
+      "id": "9a2e9fe9-3bd6-4749-9891-066d3d578701",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:10.756Z"
+    },
+    {
+      "id": "3518d013-2db6-42b4-be5a-83bd7ac07f6a",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:10.760Z"
+    },
+    {
+      "id": "9187b4ce-34c9-4167-99f2-12ad8fd56a62",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:10.763Z"
+    },
+    {
+      "id": "b2b87cff-0fc2-464c-be0e-6070796281f9",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:10.766Z"
+    },
+    {
+      "id": "9816cf48-c1ef-4980-bce6-d5e1d5d84aa4",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:10.770Z"
+    },
+    {
+      "id": "a27879c2-e141-4f2b-b189-dc4dbbf7d5a6",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:10.773Z"
+    },
+    {
+      "id": "546f3440-7d31-48aa-a0b5-4cc958fbcd40",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:10.776Z"
+    },
+    {
+      "id": "9a4c59d6-eb07-4fb2-b40b-5299d728273d",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:10.780Z"
+    },
+    {
+      "id": "966a8654-d330-47f6-88fb-c088fa5cfb76",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:10.784Z"
+    },
+    {
+      "id": "8bef0bec-e28d-4c74-a23a-c35d97d5c72c",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:10.789Z"
+    },
+    {
+      "id": "7f343347-7926-4f6d-9bdf-bfc7aa04b8f5",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:10.792Z"
+    },
+    {
+      "id": "9f1a1b8e-091b-4db6-a358-c77aab0ad159",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:10.794Z"
+    },
+    {
+      "id": "4b8cea0d-b6ff-4346-88aa-4fc53f5c4eaa",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:10.797Z"
+    },
+    {
+      "id": "3fa7f686-122f-4700-8b90-92a18a429a6c",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:10.800Z"
+    },
+    {
+      "id": "e7e71b74-04ad-4109-ab46-cf9e55fead63",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:10.802Z"
+    },
+    {
+      "id": "3d636b54-01d4-4e5f-9e79-75eb1069e37c",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:10.805Z"
+    },
+    {
+      "id": "e4f5b20d-9da6-4042-b658-037dae6b75cb",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:10.811Z"
+    },
+    {
+      "id": "ac4a5768-afb4-41aa-8bc7-fc1f7d0d99a3",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:10.817Z"
+    },
+    {
+      "id": "6d1b8eed-db12-41b5-9a98-795e31787ebd",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:10.820Z"
+    },
+    {
+      "id": "5a9e708b-689e-4786-81b4-8c9cc3e8a337",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:10.822Z"
+    },
+    {
+      "id": "e17698a3-8257-44bb-85d8-b0cf5793689a",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:10.824Z"
+    },
+    {
+      "id": "ea034d07-ddb0-4597-a2a7-dec13bff2fd8",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:10.828Z"
+    },
+    {
+      "id": "f709d7db-dc53-417c-81d9-c2eb7de20dd6",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:10.836Z"
+    },
+    {
+      "id": "7e8d652e-9a0e-42d7-9eff-94817db488d8",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:10.839Z"
+    },
+    {
+      "id": "7fc91c15-03f2-4e66-bf5c-5384b3032c04",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:10.851Z"
+    },
+    {
+      "id": "d84b5d3c-dc14-4248-b545-4b947d92dc70",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:10.858Z"
+    },
+    {
+      "id": "b8f920cb-3214-4879-a402-2f570c5490d8",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:10.866Z"
+    },
+    {
+      "id": "b2fa9445-87a9-401e-8771-445986965adf",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:10.876Z"
+    },
+    {
+      "id": "f9c5ce47-15df-4fd5-8de0-075f9a5f0a0e",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:10.885Z"
+    },
+    {
+      "id": "e2cecb38-3d6d-4cbf-a653-41640ea31088",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:10.895Z"
+    },
+    {
+      "id": "fdb71c1f-d8a6-46fe-a6f7-c19d698ad7a9",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:10.910Z"
+    },
+    {
+      "id": "5017edf9-f4a0-4291-9c69-5f5f39a981ed",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:10.914Z"
+    },
+    {
+      "id": "fe21e8e0-2abd-4081-8c8d-354131134fed",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:10.921Z"
+    },
+    {
+      "id": "e55ff3b8-679d-4eb5-8e54-b1d18d50c9d7",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:10.925Z"
+    },
+    {
+      "id": "24ff297f-a3bb-48bc-b3b8-3fde1607085f",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:10.928Z"
+    },
+    {
+      "id": "27de0a4f-c7d9-4fac-a98e-3988009c8e82",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:10.931Z"
+    },
+    {
+      "id": "87056c7e-296b-4864-b2f3-5556f7e7270f",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:10.934Z"
+    },
+    {
+      "id": "2b5f55ba-b0c9-41c1-bb7b-2ac209c8e6b7",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:10.936Z"
+    },
+    {
+      "id": "d3d5db19-0fec-4139-9286-860520749e40",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:10.939Z"
+    },
+    {
+      "id": "5d8c9062-7cf5-4874-b058-7f39a7963a19",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:10.942Z"
+    },
+    {
+      "id": "027c8c8b-1b81-4f20-96d5-2fcaa4eb2c59",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:10.945Z"
+    },
+    {
+      "id": "2acbe384-4666-4712-9012-9e1ca4dc738d",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:10.947Z"
+    },
+    {
+      "id": "d4013051-f69d-4d5f-bac8-785244d839ac",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:10.952Z"
+    },
+    {
+      "id": "a26e1ca4-8048-4487-8137-6ec796645174",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:10.954Z"
+    },
+    {
+      "id": "951a5ede-558e-46e9-8956-62d1c2287c81",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:10.965Z"
+    },
+    {
+      "id": "96d8debd-ed13-449c-8258-6a91d59a0c12",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:10.975Z"
+    },
+    {
+      "id": "ca6cffd2-4ab3-402d-a2e9-c61bbe16617f",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:10.978Z"
+    },
+    {
+      "id": "aa9e88e7-18a2-4adb-9553-92e52d5ea370",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:10.983Z"
+    },
+    {
+      "id": "76c9b9a4-143c-42e4-a8c7-142506f11715",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:10.985Z"
+    },
+    {
+      "id": "419533d4-8274-45d0-8fab-b316767b4b5d",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:10.988Z"
+    },
+    {
+      "id": "53617e59-fcdb-4183-90a9-8e891fc0e38d",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:10.991Z"
+    },
+    {
+      "id": "d1b4af8b-bee6-4b22-85ea-019386dc269c",
+      "habitId": "h-3f68e02a",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:10.994Z"
+    },
+    {
+      "id": "702db6a1-692a-4c75-8bd4-a84e74a0d855",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:10.999Z"
+    },
+    {
+      "id": "69425d7a-ce3a-460a-915e-46f900c905ac",
+      "habitId": "h-eb4db9fd",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:34:11.003Z"
+    },
+    {
+      "id": "d1460180-1ea5-4748-a100-f3e6515415a2",
+      "habitId": "h-49b538eb",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:34:11.006Z"
+    },
+    {
+      "id": "96078c01-e34e-44db-b72c-f2e837c852a3",
+      "habitId": "h-ffef5f5e",
+      "userId": "guest-dd425454",
+      "arcId": "arc-834d1ba3",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:34:11.009Z"
+    },
+    {
+      "id": "5df6825c-6767-409b-9681-d77c8aadfce0",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:11.073Z"
+    },
+    {
+      "id": "2838c4e3-cc28-42ad-82ec-187791744ff9",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:11.078Z"
+    },
+    {
+      "id": "dde93395-0b8a-4b4a-b561-974c055010f2",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:11.083Z"
+    },
+    {
+      "id": "42c3c74d-9c8b-4a08-bcf6-de47a7860fbb",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:34:11.086Z"
+    },
+    {
+      "id": "30fcff83-d7e3-4b4e-a9cc-01cc7694facb",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:11.090Z"
+    },
+    {
+      "id": "1c366620-9104-4197-8cd6-01f5d9be81e0",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:11.093Z"
+    },
+    {
+      "id": "2a66f6bb-92e5-4deb-ad5a-d03a06d39e71",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:11.096Z"
+    },
+    {
+      "id": "140b671b-e478-4680-bb6c-d86e082f1c1e",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:34:11.100Z"
+    },
+    {
+      "id": "536c5319-bf20-4be2-8c74-225b2503489f",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:11.103Z"
+    },
+    {
+      "id": "320ed481-cc30-4ea0-b525-83c5205c1604",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:11.107Z"
+    },
+    {
+      "id": "c3eefe7b-b21b-40c4-b950-71e2b1a8b110",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:11.110Z"
+    },
+    {
+      "id": "e47bfc86-e046-4427-935e-1c6662af8a72",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:34:11.114Z"
+    },
+    {
+      "id": "94341216-fbe2-4288-8be7-288e411f1019",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:11.116Z"
+    },
+    {
+      "id": "99bc5edd-73b5-4b57-80ac-610bdb00804f",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:11.118Z"
+    },
+    {
+      "id": "7930d68f-905c-4956-b3c6-7497e53ee67c",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:11.121Z"
+    },
+    {
+      "id": "1234d3b2-d92b-49aa-b79f-764a0ea769c5",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:34:11.124Z"
+    },
+    {
+      "id": "b45668b9-1d18-4c88-8027-b60b3c953bb4",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:11.129Z"
+    },
+    {
+      "id": "eb39cc85-c125-4a75-a204-c933f52567d4",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:11.132Z"
+    },
+    {
+      "id": "3242444e-852a-477e-a3b3-99ab968b7a10",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:11.135Z"
+    },
+    {
+      "id": "7878d61c-90d8-45a8-8fa8-6363c62cdf91",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:34:11.137Z"
+    },
+    {
+      "id": "9d27746d-7e92-4d17-862d-0fae6b57a8e9",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:11.140Z"
+    },
+    {
+      "id": "dc61812d-888b-4e3b-b095-f4c8780dcb59",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:11.143Z"
+    },
+    {
+      "id": "31216d9d-2b0f-42b1-9b7a-76447a663108",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:11.145Z"
+    },
+    {
+      "id": "edea4e33-5bb8-4f64-83cb-c0958522cdd9",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:34:11.147Z"
+    },
+    {
+      "id": "ea86d2c8-a666-46b9-8eea-23c8bae56199",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:11.149Z"
+    },
+    {
+      "id": "f3b6b494-fd20-4876-ac4e-392a2ab0b93d",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:11.152Z"
+    },
+    {
+      "id": "8b734cae-7a55-453f-946f-77d6a5dd910f",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:11.154Z"
+    },
+    {
+      "id": "fbdac177-e3e1-4e25-88e6-c2eb579b0c5e",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:34:11.157Z"
+    },
+    {
+      "id": "9105a5d3-8a49-45f2-8db0-97e45d43fb61",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:11.159Z"
+    },
+    {
+      "id": "29b6cd8e-c3c6-4730-b294-7cab049c033d",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:11.163Z"
+    },
+    {
+      "id": "7a76dd34-1344-41bd-8a19-a4e0627e3251",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:11.166Z"
+    },
+    {
+      "id": "d210ebb4-6d84-4168-9e13-d9d7648d622a",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:34:11.168Z"
+    },
+    {
+      "id": "0bd42dc4-25e3-4bc6-9e58-de47460fe9c6",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:11.171Z"
+    },
+    {
+      "id": "f0a0ca87-cadd-4df6-8fe6-9507c1528cc9",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:11.176Z"
+    },
+    {
+      "id": "05878d24-d875-48f8-b157-5f32548eb349",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:11.181Z"
+    },
+    {
+      "id": "ae33117b-45c6-4493-8367-bab44e97b6fd",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:34:11.186Z"
+    },
+    {
+      "id": "49613de9-b9fb-4d20-a9b0-2dd6558eccbe",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:11.190Z"
+    },
+    {
+      "id": "7312870a-bb57-40cf-b7b9-d5faafdc4db8",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:11.195Z"
+    },
+    {
+      "id": "7ab1d596-9f96-4e59-a877-d104f7d6945a",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:11.202Z"
+    },
+    {
+      "id": "fda32a39-7701-4a18-ac72-bf38078f50d9",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:34:11.205Z"
+    },
+    {
+      "id": "dd693812-26cb-4355-b280-77c6335afc29",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:11.209Z"
+    },
+    {
+      "id": "3a8a1044-194a-49df-b984-9dede343e562",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:11.215Z"
+    },
+    {
+      "id": "b2dfa824-2efa-4565-8659-552f5e907887",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:11.218Z"
+    },
+    {
+      "id": "62a70b02-0c34-4784-9941-b29d347c9493",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:34:11.222Z"
+    },
+    {
+      "id": "3d08db28-d0dc-4cfe-b420-75e5f9620ef0",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:11.226Z"
+    },
+    {
+      "id": "170d6b9e-2556-4c7e-ae37-4a5c5581c535",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:11.230Z"
+    },
+    {
+      "id": "b313aacd-11c9-4139-b1d8-a75c02ad31a6",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:11.234Z"
+    },
+    {
+      "id": "dc538fd4-745a-479c-95a5-88aaaaa2fe68",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:34:11.237Z"
+    },
+    {
+      "id": "5f5c6624-8ede-4df0-83db-973f93acddcc",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:11.240Z"
+    },
+    {
+      "id": "2ef1a708-1ffc-4ed5-b9bd-c45d86cd151d",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:11.243Z"
+    },
+    {
+      "id": "195fda93-ee40-432b-9d07-dc80bd67ffc1",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:11.246Z"
+    },
+    {
+      "id": "20a20bbe-f37b-4ba2-82f7-66719413a347",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:34:11.249Z"
+    },
+    {
+      "id": "2958af21-7c74-447d-b0af-d0cd60531eb3",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:11.252Z"
+    },
+    {
+      "id": "4f6c02f5-19e0-4492-94a5-6f878deb871f",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:11.255Z"
+    },
+    {
+      "id": "74f608ee-c745-4ea4-bcb8-34c99f36d589",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:11.258Z"
+    },
+    {
+      "id": "ddf435f8-5d47-403c-b33a-7e8349017af9",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:34:11.262Z"
+    },
+    {
+      "id": "e6a46731-dbed-4219-81ba-6555f2e44b8b",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:11.266Z"
+    },
+    {
+      "id": "a18c1de6-6e58-40df-b1b2-a04e9414f5c2",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:11.269Z"
+    },
+    {
+      "id": "4c066ea7-da47-41a6-8a36-e04ada0c4f47",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:11.272Z"
+    },
+    {
+      "id": "df324fe8-752c-4f72-a65b-3d29bc8886ad",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:34:11.276Z"
+    },
+    {
+      "id": "082999d9-c34a-403d-9eed-3addc09112b0",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:11.282Z"
+    },
+    {
+      "id": "4c76546c-1e18-497e-a9bf-63467f548db1",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:11.291Z"
+    },
+    {
+      "id": "e6d052bc-197d-4ee2-8a27-5f6b22ad5da9",
+      "habitId": "h-0a31ff4d",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:11.298Z"
+    },
+    {
+      "id": "944836e5-8b6d-4e33-a081-ac47618fc883",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:34:11.301Z"
+    },
+    {
+      "id": "5d55999a-1969-46e8-848f-a2bfac10cd10",
+      "habitId": "h-ddbd3343",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:34:11.305Z"
+    },
+    {
+      "id": "9bdebba4-0f6d-40ac-87ad-68b5e826b90f",
+      "habitId": "h-33fa5733",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:34:11.309Z"
+    },
+    {
+      "id": "6306db72-061d-49c8-b43c-56fbe7bd84e6",
+      "habitId": "h-c42f6369",
+      "userId": "guest-ab0a61d7",
+      "arcId": "arc-585ae715",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:34:11.313Z"
+    },
+    {
+      "id": "c046d0f4-61bd-44ed-8641-fb4406437e77",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.406Z"
+    },
+    {
+      "id": "b4e060b2-2aca-4aa0-8cfd-564eadd7cdec",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.423Z"
+    },
+    {
+      "id": "2dc44d5e-f4fa-4594-a807-74667d7ba4eb",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.432Z"
+    },
+    {
+      "id": "1dd8c4c9-8a47-4c8a-87f4-c48c0235d0a0",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.438Z"
+    },
+    {
+      "id": "ae764899-70fb-4fd3-9c8c-e256a646d6a7",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:15.446Z"
+    },
+    {
+      "id": "ecd9881b-7da9-455a-9ac7-bb7040186457",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:15.458Z"
+    },
+    {
+      "id": "10682c1f-5b3c-456f-a86d-36c4ecb34d21",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:15.463Z"
+    },
+    {
+      "id": "b8eed8f4-a97f-49a0-acbe-63e023463201",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:15.474Z"
+    },
+    {
+      "id": "2de3e355-1b7e-407c-af52-973edefb75b3",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:15.488Z"
+    },
+    {
+      "id": "f9838794-55b9-404e-be55-ab4b5f57bc26",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:15.499Z"
+    },
+    {
+      "id": "16807389-85ab-487a-b809-b5c1033e4ee1",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:15.508Z"
+    },
+    {
+      "id": "ead70297-418c-478f-bcad-9eaf722daa03",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:15.518Z"
+    },
+    {
+      "id": "8b843dbb-4084-4dc6-90e4-af662ecb39f0",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:15.527Z"
+    },
+    {
+      "id": "538f02ab-cc05-4b6e-b235-314eb06f4419",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:15.537Z"
+    },
+    {
+      "id": "8d178c47-d43b-4116-8d98-fd6b380f1648",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:15.543Z"
+    },
+    {
+      "id": "b912fe55-250b-499e-9419-aa8ae663085d",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:15.550Z"
+    },
+    {
+      "id": "fc173706-5a5d-422b-b4d5-da8329ae72e0",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:15.556Z"
+    },
+    {
+      "id": "73d252ef-25aa-4cf3-ae72-05df281a02ac",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:15.563Z"
+    },
+    {
+      "id": "677af1f3-6ca6-4d60-99d2-5f3308db7e9b",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:15.570Z"
+    },
+    {
+      "id": "9d16c9c6-8b9c-4704-a1ca-9044cbb5e423",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:15.576Z"
+    },
+    {
+      "id": "f8f56516-f385-413d-b843-1beec5f63b7b",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:15.582Z"
+    },
+    {
+      "id": "15fa220e-cf7c-4a2d-a25d-62dfa4360bd6",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:15.590Z"
+    },
+    {
+      "id": "78ca6e80-2263-44bd-a4cc-c339bde80369",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:15.596Z"
+    },
+    {
+      "id": "767b233d-faf2-49a5-8c40-c369fef596db",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:15.602Z"
+    },
+    {
+      "id": "84ec2a0f-ee39-42ea-8bf5-71b6fde247f8",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:15.608Z"
+    },
+    {
+      "id": "84f87060-7d1a-4601-8a0b-9f653d7a654e",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:15.617Z"
+    },
+    {
+      "id": "37f57984-5de0-41cc-9e52-a6c18ea514d0",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:15.624Z"
+    },
+    {
+      "id": "3b06b327-64f6-4672-ab9b-365e98f806db",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:15.636Z"
+    },
+    {
+      "id": "84280f5f-9c83-4d22-8d34-648768d15820",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:15.642Z"
+    },
+    {
+      "id": "a93b9d78-d0c7-416b-855e-d9d3c3f48c23",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:15.650Z"
+    },
+    {
+      "id": "53274409-2412-4c22-a6dd-d6f66269d83e",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:15.656Z"
+    },
+    {
+      "id": "e79e9670-3cb1-4d78-882d-9aeee62766af",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:15.663Z"
+    },
+    {
+      "id": "e57321c5-f6e5-4550-8f0a-ada163546c5a",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:15.668Z"
+    },
+    {
+      "id": "63077363-d28a-4ffb-9990-067a23af1519",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:15.673Z"
+    },
+    {
+      "id": "ce54ef0a-de84-400f-8d13-84949a92b0ac",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:15.679Z"
+    },
+    {
+      "id": "777bd375-3b4f-4cc6-8e4f-4a5438b916a3",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:15.685Z"
+    },
+    {
+      "id": "4c554858-ef84-4447-beba-5d06da0d88da",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:15.691Z"
+    },
+    {
+      "id": "a5f2c17e-b9a6-4785-a1e7-fdf9d0a2f3fb",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:15.698Z"
+    },
+    {
+      "id": "a77b9643-9266-4357-9e95-934834ee81da",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:15.708Z"
+    },
+    {
+      "id": "385c201e-d10e-4873-b081-c8d758f4d286",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:15.716Z"
+    },
+    {
+      "id": "94d56764-5ce6-4867-bed8-8393cbe703d6",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:15.724Z"
+    },
+    {
+      "id": "eae6d2e5-136e-4cfe-b74b-84dde7ce2c92",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:15.730Z"
+    },
+    {
+      "id": "f33164e7-db54-4553-87da-c16b7f6278fb",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:15.735Z"
+    },
+    {
+      "id": "95598de3-4935-4834-83cb-3846c28ed967",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:15.742Z"
+    },
+    {
+      "id": "38111e2a-4819-47d5-85e4-f1ea626aab11",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:15.750Z"
+    },
+    {
+      "id": "180ac349-541b-41a3-a8f0-ea8a26c9e41c",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:15.757Z"
+    },
+    {
+      "id": "df83fa5f-1a36-4737-b08d-712ea7c5222f",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:15.767Z"
+    },
+    {
+      "id": "3731a19c-43a6-4156-a842-9c72df7cf3e4",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:15.773Z"
+    },
+    {
+      "id": "ad45c571-665a-4fc8-a18b-2def8a77396d",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:15.781Z"
+    },
+    {
+      "id": "0559ac04-db48-4b94-b1e4-04bbaf250113",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:15.789Z"
+    },
+    {
+      "id": "513b06e4-295c-4b46-940c-8a5516db6506",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:15.795Z"
+    },
+    {
+      "id": "42905360-aca6-47a4-9068-e143774848a0",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:15.801Z"
+    },
+    {
+      "id": "c71d6623-5bb0-4d01-a502-c7d2f1e32ef6",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:15.807Z"
+    },
+    {
+      "id": "2f4889f9-6f52-43f0-8455-b329e23cae8d",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:15.813Z"
+    },
+    {
+      "id": "dc87c8b7-50bc-4068-8d9c-bdc3fd093704",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:15.821Z"
+    },
+    {
+      "id": "9e7a7bf1-1dac-467c-9ca0-1c6e4ba56e09",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:15.827Z"
+    },
+    {
+      "id": "4a464029-46ae-4146-ac55-17bf0053417d",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:15.834Z"
+    },
+    {
+      "id": "6405283f-9d4e-4086-99e7-6133fba2ed91",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:15.840Z"
+    },
+    {
+      "id": "0099ef0b-f7e9-485e-9d43-2d5c87280feb",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:15.849Z"
+    },
+    {
+      "id": "4ce9c3aa-15f8-4c41-aa61-b46d4fdc6774",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:15.863Z"
+    },
+    {
+      "id": "0b3e9a38-fc18-4be3-94b9-dcae9978f10b",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:15.869Z"
+    },
+    {
+      "id": "3b5747a7-aa26-4566-9b62-310aaa527676",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:15.879Z"
+    },
+    {
+      "id": "1256b272-5a31-4e27-b143-eaff0c1f96e8",
+      "habitId": "h-71e471e1",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:15.886Z"
+    },
+    {
+      "id": "8f76dffb-b5a8-49a9-a202-36f1544fff36",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:15.894Z"
+    },
+    {
+      "id": "0dc167f8-2c16-4287-be62-9c92ad8727c2",
+      "habitId": "h-28a70dd5",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:43:15.901Z"
+    },
+    {
+      "id": "41eb2e30-a999-4301-9c83-0cf027524406",
+      "habitId": "h-dddf4b2a",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:43:15.909Z"
+    },
+    {
+      "id": "d7e5f82f-1814-408a-aac6-5c11cb8e9b45",
+      "habitId": "h-2af3d790",
+      "userId": "guest-f186230e",
+      "arcId": "arc-5e2092d6",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:43:15.916Z"
+    },
+    {
+      "id": "0ee38eef-837c-4910-b29d-c65e5d207fbd",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.960Z"
+    },
+    {
+      "id": "a6ea1c31-1507-40e9-8aef-8ad50b1064da",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.973Z"
+    },
+    {
+      "id": "3d5eda21-1aa8-423a-a066-ef6d27e8cf4a",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.981Z"
+    },
+    {
+      "id": "d565925d-eaea-4003-abe8-3ee549f1aa74",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-12",
+      "completedAt": "2026-09-28T19:43:15.989Z"
+    },
+    {
+      "id": "dcb3cfc8-81f8-46df-9c43-dc39f0783e29",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:15.997Z"
+    },
+    {
+      "id": "f6c9449c-117c-4e88-ba8c-c50a85fe3910",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:16.004Z"
+    },
+    {
+      "id": "eccaf905-759c-42de-b932-e46c0d6376d7",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:16.014Z"
+    },
+    {
+      "id": "543b7a2d-fb33-4bb2-ba07-a66feced6350",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-13",
+      "completedAt": "2026-09-28T19:43:16.022Z"
+    },
+    {
+      "id": "c7fd38fd-40e2-403e-b69b-a4d68f8c4492",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:16.029Z"
+    },
+    {
+      "id": "a1157239-6937-4b94-9568-70d70d747f90",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:16.036Z"
+    },
+    {
+      "id": "34ee8306-6bd0-4365-861b-a945c38aa241",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:16.047Z"
+    },
+    {
+      "id": "0e55da08-b5de-4d3b-b112-35d69d634138",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-14",
+      "completedAt": "2026-09-28T19:43:16.057Z"
+    },
+    {
+      "id": "c8d7c994-b2ab-451c-b87c-b3ec353cd06b",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:16.067Z"
+    },
+    {
+      "id": "cb61fc26-aa60-45f6-9066-47ee5fa1af00",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:16.079Z"
+    },
+    {
+      "id": "c30251ab-643a-47a3-98e7-d764a25d083c",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:16.088Z"
+    },
+    {
+      "id": "0a43ce72-c510-45e0-abe5-e66fb0e2b1e5",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-15",
+      "completedAt": "2026-09-28T19:43:16.098Z"
+    },
+    {
+      "id": "9bae808e-e304-4b65-a0a2-9f41b4c88d15",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:16.112Z"
+    },
+    {
+      "id": "f38cfc8f-18bb-47e9-9d61-bbbca28ded8b",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:16.120Z"
+    },
+    {
+      "id": "10da1e07-7c9f-4647-b55a-de818ac0d3ef",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:16.127Z"
+    },
+    {
+      "id": "44b684eb-b5c6-464d-9688-00bacff77286",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-16",
+      "completedAt": "2026-09-28T19:43:16.142Z"
+    },
+    {
+      "id": "b2ffea77-1933-4767-9702-b36e8980202b",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:16.158Z"
+    },
+    {
+      "id": "ee009217-0ba4-4801-811f-974a8bd6a07e",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:16.167Z"
+    },
+    {
+      "id": "ddf73c89-c5c0-466b-bf3a-14644b9ac6ef",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:16.175Z"
+    },
+    {
+      "id": "12b0b351-239f-4133-bb2f-af06f5ed2df9",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-17",
+      "completedAt": "2026-09-28T19:43:16.185Z"
+    },
+    {
+      "id": "f6abdaba-5f47-4271-9747-573834bba8e9",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:16.192Z"
+    },
+    {
+      "id": "148b8a47-eac1-4a57-9301-c9e441e0917c",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:16.199Z"
+    },
+    {
+      "id": "f88ae5d7-d5e3-45c7-b211-469a42950293",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:16.207Z"
+    },
+    {
+      "id": "93d3b24e-b893-4701-aceb-d6fb87aec031",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-18",
+      "completedAt": "2026-09-28T19:43:16.216Z"
+    },
+    {
+      "id": "9cf22602-6b14-4cc1-9e4d-2713dbdd9464",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:16.222Z"
+    },
+    {
+      "id": "e9640479-46a8-4e55-b6c3-642b12cd8fbf",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:16.229Z"
+    },
+    {
+      "id": "27b18f6f-c800-48c9-8987-60100623a374",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:16.236Z"
+    },
+    {
+      "id": "ff479b38-3f5d-46f7-b833-0f50dc625a0c",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-19",
+      "completedAt": "2026-09-28T19:43:16.247Z"
+    },
+    {
+      "id": "bcb00e00-1e6c-4f40-9dc2-a30e2e477b08",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:16.254Z"
+    },
+    {
+      "id": "fd5d8aaa-42c7-44ff-a1fd-f663122bd876",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:16.264Z"
+    },
+    {
+      "id": "559c7fd4-3871-4a6d-bb9d-8ba051772879",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:16.271Z"
+    },
+    {
+      "id": "37077114-1861-4748-8c28-bb42e5cb6aea",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-20",
+      "completedAt": "2026-09-28T19:43:16.286Z"
+    },
+    {
+      "id": "a7acff96-ed34-4c31-b426-4d8d500044d6",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:16.294Z"
+    },
+    {
+      "id": "42014815-7df9-4151-b3fd-de10c4206ff7",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:16.301Z"
+    },
+    {
+      "id": "502db038-543e-4223-969b-c392320a1982",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:16.315Z"
+    },
+    {
+      "id": "0244409d-fecd-4fd7-9a49-4aac8ae6b70f",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-21",
+      "completedAt": "2026-09-28T19:43:16.320Z"
+    },
+    {
+      "id": "88aa6a28-cc79-46e2-a642-a8eb7a309940",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:16.328Z"
+    },
+    {
+      "id": "2b70b7c2-ea54-4460-b82e-b3ef5c0945de",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:16.337Z"
+    },
+    {
+      "id": "3e535746-efa2-4b00-877d-1f893bad7764",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:16.345Z"
+    },
+    {
+      "id": "f1ff3180-6b48-4603-8cfb-e84246efb60e",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-22",
+      "completedAt": "2026-09-28T19:43:16.352Z"
+    },
+    {
+      "id": "b3b5ca3b-af90-4269-915a-88a0fc80e193",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:16.359Z"
+    },
+    {
+      "id": "a70ea68b-ca2d-4fbf-8462-7546cdfe4d35",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:16.366Z"
+    },
+    {
+      "id": "4c8425f2-f3a7-4885-9328-40d658f419a7",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:16.373Z"
+    },
+    {
+      "id": "cf5c116c-d34b-42aa-805d-f7b3fc985563",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-23",
+      "completedAt": "2026-09-28T19:43:16.380Z"
+    },
+    {
+      "id": "192ad758-64a1-42a0-8c2b-70c7fd1f50ce",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:16.386Z"
+    },
+    {
+      "id": "c6fddb01-4c9f-44b9-b7f6-50936bf6db6b",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:16.394Z"
+    },
+    {
+      "id": "675ce1a6-ba89-40b8-8f99-7e02fe8628a5",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:16.401Z"
+    },
+    {
+      "id": "11e3024a-0b8b-4734-a43c-3df6e98e3286",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-24",
+      "completedAt": "2026-09-28T19:43:16.407Z"
+    },
+    {
+      "id": "34ac7531-53c0-4895-b6ec-81072023dd10",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:16.414Z"
+    },
+    {
+      "id": "48874f76-5f0d-496d-b63e-3db4cb44d704",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:16.421Z"
+    },
+    {
+      "id": "681335cf-bfdd-48e9-b226-6a63c42424a4",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:16.428Z"
+    },
+    {
+      "id": "dd8d4393-3081-4e55-b53a-6c2a9b516045",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-25",
+      "completedAt": "2026-09-28T19:43:16.433Z"
+    },
+    {
+      "id": "e161c20a-5849-44b0-94b1-0fd242aca897",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:16.440Z"
+    },
+    {
+      "id": "5547839a-51ea-40d4-90b0-793f59757b9c",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:16.450Z"
+    },
+    {
+      "id": "85cb2a6b-2081-4c68-9dc8-66095b53e28c",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:16.457Z"
+    },
+    {
+      "id": "bb9e6f52-bdbe-4d09-b995-3895a04758f3",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-26",
+      "completedAt": "2026-09-28T19:43:16.465Z"
+    },
+    {
+      "id": "a8e7768c-d259-4605-ad80-47292e282b1e",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:16.472Z"
+    },
+    {
+      "id": "2c2d635e-febf-4f95-ac12-b82f8a72393b",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:16.488Z"
+    },
+    {
+      "id": "626b11bf-dc92-4e86-a37a-f4eab965b5ad",
+      "habitId": "h-20d88f96",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:16.496Z"
+    },
+    {
+      "id": "cd81058b-97e9-4549-a27f-29daa209c624",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-27",
+      "completedAt": "2026-09-28T19:43:16.507Z"
+    },
+    {
+      "id": "cffb7e61-aad8-4387-a87d-74f6f600978a",
+      "habitId": "h-29bfc00c",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:43:16.521Z"
+    },
+    {
+      "id": "6e0d755f-1b41-4553-9d33-bb15e14c95b0",
+      "habitId": "h-d304b5be",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:43:16.529Z"
+    },
+    {
+      "id": "02b22ad4-0998-46d8-ad1f-74fefcf0b500",
+      "habitId": "h-d03a01d3",
+      "userId": "guest-111cec84",
+      "arcId": "arc-659c8f61",
+      "date": "2026-09-28",
+      "completedAt": "2026-09-28T19:46:25.746Z"
+    }
+  ],
+  "goals": [
+    {
+      "id": "goal-fa93373e",
+      "arcId": "arc-834d1ba3",
+      "userId": "guest-dd425454",
+      "title": "Improve my English",
+      "category": "Studies",
+      "progressPercent": 50,
+      "isCompleted": false,
+      "createdAt": "2026-09-12T19:34:10.705Z",
+      "tasks": []
+    },
+    {
+      "id": "goal-08604d3d",
+      "arcId": "arc-585ae715",
+      "userId": "guest-ab0a61d7",
+      "title": "Improve my English",
+      "category": "Studies",
+      "progressPercent": 50,
+      "isCompleted": false,
+      "createdAt": "2026-09-12T19:34:11.062Z",
+      "tasks": []
+    },
+    {
+      "id": "goal-210139b5",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "title": "I want to become more disciplined, improve my English, exercise regularly and take better care of myself.",
+      "category": "Fitness",
+      "progressPercent": 0,
+      "isCompleted": false,
+      "createdAt": "2026-09-28T19:37:08.488Z",
+      "tasks": []
+    },
+    {
+      "id": "goal-a89cb4c2",
+      "arcId": "arc-5e2092d6",
+      "userId": "guest-f186230e",
+      "title": "Improve my English",
+      "category": "Studies",
+      "progressPercent": 50,
+      "isCompleted": false,
+      "createdAt": "2026-09-12T19:43:15.388Z",
+      "tasks": []
+    },
+    {
+      "id": "goal-a80646a4",
+      "arcId": "arc-659c8f61",
+      "userId": "guest-111cec84",
+      "title": "Improve my English",
+      "category": "Studies",
+      "progressPercent": 50,
+      "isCompleted": false,
+      "createdAt": "2026-09-12T19:43:15.940Z",
+      "tasks": []
+    }
+  ],
+  "goalTasks": [
+    {
+      "id": "task-a2c8eb75",
+      "goalId": "goal-fa93373e",
+      "title": "Learn 20 new words",
+      "isCompleted": true,
+      "orderIndex": 0
+    },
+    {
+      "id": "task-696fceb2",
+      "goalId": "goal-fa93373e",
+      "title": "Practice speaking",
+      "isCompleted": true,
+      "orderIndex": 1
+    },
+    {
+      "id": "task-9251b62a",
+      "goalId": "goal-fa93373e",
+      "title": "Watch one English video",
+      "isCompleted": false,
+      "orderIndex": 2
+    },
+    {
+      "id": "task-c4c6420b",
+      "goalId": "goal-fa93373e",
+      "title": "Complete one listening exercise",
+      "isCompleted": false,
+      "orderIndex": 3
+    },
+    {
+      "id": "task-29247102",
+      "goalId": "goal-08604d3d",
+      "title": "Learn 20 new words",
+      "isCompleted": true,
+      "orderIndex": 0
+    },
+    {
+      "id": "task-3bedb816",
+      "goalId": "goal-08604d3d",
+      "title": "Practice speaking",
+      "isCompleted": true,
+      "orderIndex": 1
+    },
+    {
+      "id": "task-ebd863ae",
+      "goalId": "goal-08604d3d",
+      "title": "Watch one English video",
+      "isCompleted": false,
+      "orderIndex": 2
+    },
+    {
+      "id": "task-d491106a",
+      "goalId": "goal-08604d3d",
+      "title": "Complete one listening exercise",
+      "isCompleted": false,
+      "orderIndex": 3
+    },
+    {
+      "id": "task-39c016cc",
+      "goalId": "goal-210139b5",
+      "title": "Establish consistent morning rhythm",
+      "isCompleted": false,
+      "orderIndex": 0
+    },
+    {
+      "id": "task-482622c1",
+      "goalId": "goal-210139b5",
+      "title": "Protect evening sleep window",
+      "isCompleted": false,
+      "orderIndex": 1
+    },
+    {
+      "id": "task-4a953c79",
+      "goalId": "goal-210139b5",
+      "title": "Show up every single day",
+      "isCompleted": false,
+      "orderIndex": 2
+    },
+    {
+      "id": "task-906cf3c3",
+      "goalId": "goal-a89cb4c2",
+      "title": "Learn 20 new words",
+      "isCompleted": true,
+      "orderIndex": 0
+    },
+    {
+      "id": "task-218c5e8f",
+      "goalId": "goal-a89cb4c2",
+      "title": "Practice speaking",
+      "isCompleted": true,
+      "orderIndex": 1
+    },
+    {
+      "id": "task-b667ac4f",
+      "goalId": "goal-a89cb4c2",
+      "title": "Watch one English video",
+      "isCompleted": false,
+      "orderIndex": 2
+    },
+    {
+      "id": "task-86d40ea3",
+      "goalId": "goal-a89cb4c2",
+      "title": "Complete one listening exercise",
+      "isCompleted": false,
+      "orderIndex": 3
+    },
+    {
+      "id": "task-0809337c",
+      "goalId": "goal-a80646a4",
+      "title": "Learn 20 new words",
+      "isCompleted": true,
+      "orderIndex": 0
+    },
+    {
+      "id": "task-f30f9693",
+      "goalId": "goal-a80646a4",
+      "title": "Practice speaking",
+      "isCompleted": true,
+      "orderIndex": 1
+    },
+    {
+      "id": "task-113797bc",
+      "goalId": "goal-a80646a4",
+      "title": "Watch one English video",
+      "isCompleted": false,
+      "orderIndex": 2
+    },
+    {
+      "id": "task-e8d85fc9",
+      "goalId": "goal-a80646a4",
+      "title": "Complete one listening exercise",
+      "isCompleted": false,
+      "orderIndex": 3
+    }
+  ],
+  "dailyCheckIns": [
+    {
+      "id": "checkin-704df607",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "date": "2026-09-28",
+      "mood": "Good",
+      "productivityScore": 8,
+      "proudOf": "Showed up for myself today.",
+      "improveTomorrow": "Maintain consistency and focus on energy.",
+      "completedAt": "2026-09-28T19:41:32.833Z"
+    }
+  ],
+  "journalEntries": [
+    {
+      "id": "8ed1c8be-7c1a-4d85-9700-c10c52cf624d",
+      "arcId": "arc-1df89b80",
+      "userId": "guest-ab0a61d7",
+      "date": "2026-09-28",
+      "mood": "Good",
+      "productivityScore": 8,
+      "proudOf": "Showed up for myself today.",
+      "improveTomorrow": "Maintain consistency and focus on energy.",
+      "note": "Check-in: Good mood with 8/10 productivity.",
+      "habitsCompletedCount": 3,
+      "createdAt": "2026-09-28T19:41:32.833Z"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "code": "FIRST_STEP",
+      "title": "First Step",
+      "description": "Complete your first day of your Winter Arc.",
+      "icon": "🌱",
+      "category": "consistency",
+      "xpReward": 100
+    },
+    {
+      "id": "ach-2",
+      "code": "7_DAYS_STRONG",
+      "title": "7 Days Strong",
+      "description": "Complete 7 days with relentless consistency.",
+      "icon": "🔥",
+      "category": "streak",
+      "xpReward": 250
+    },
+    {
+      "id": "ach-3",
+      "code": "CONSISTENT",
+      "title": "Consistent",
+      "description": "Complete 30 days of deliberate self-mastery.",
+      "icon": "💪",
+      "category": "streak",
+      "xpReward": 500
+    },
+    {
+      "id": "ach-4",
+      "code": "BOOKWORM",
+      "title": "Bookworm",
+      "description": "Complete 10 reading sessions.",
+      "icon": "📚",
+      "category": "mind",
+      "xpReward": 200
+    },
+    {
+      "id": "ach-5",
+      "code": "SLEEP_RESET",
+      "title": "Sleep Reset",
+      "description": "Complete your sleep habit consistently.",
+      "icon": "🌙",
+      "category": "recovery",
+      "xpReward": 200
+    },
+    {
+      "id": "ach-6",
+      "code": "MOVING",
+      "title": "Moving",
+      "description": "Complete 20 workout or walking sessions.",
+      "icon": "🏃",
+      "category": "fitness",
+      "xpReward": 300
+    },
+    {
+      "id": "ach-7",
+      "code": "GOAL_GETTER",
+      "title": "Goal Getter",
+      "description": "Complete your first major goal.",
+      "icon": "🎯",
+      "category": "transformation",
+      "xpReward": 350
+    },
+    {
+      "id": "ach-8",
+      "code": "ARC_COMPLETE",
+      "title": "Arc Complete",
+      "description": "Finished your full Winter Arc transformation.",
+      "icon": "🏆",
+      "category": "transcendence",
+      "xpReward": 1000
+    }
+  ],
+  "userAchievements": [
+    {
+      "id": "c61e84c8-a033-4eb5-9303-298f6e2cb425",
+      "userId": "guest-dd425454",
+      "achievementId": "ach-1",
+      "unlockedAt": "2026-09-28T19:34:10.720Z"
+    },
+    {
+      "id": "700bed0c-50aa-4a02-abcf-11cc8d2df2f1",
+      "userId": "guest-dd425454",
+      "achievementId": "ach-4",
+      "unlockedAt": "2026-09-28T19:34:10.872Z"
+    },
+    {
+      "id": "f711b7f9-c629-4b6d-95a4-ee210215263c",
+      "userId": "guest-dd425454",
+      "achievementId": "ach-2",
+      "unlockedAt": "2026-09-28T19:34:10.990Z"
+    },
+    {
+      "id": "ea12267c-4e07-47a5-8980-6df455640aed",
+      "userId": "guest-ab0a61d7",
+      "achievementId": "ach-1",
+      "unlockedAt": "2026-09-28T19:34:11.076Z"
+    },
+    {
+      "id": "a285946b-64b9-4b72-a285-ca7ed1c0f295",
+      "userId": "guest-ab0a61d7",
+      "achievementId": "ach-4",
+      "unlockedAt": "2026-09-28T19:34:11.199Z"
+    },
+    {
+      "id": "99bc81bf-ac57-401c-b00d-2ed69bc09a66",
+      "userId": "guest-ab0a61d7",
+      "achievementId": "ach-2",
+      "unlockedAt": "2026-09-28T19:34:11.288Z"
+    },
+    {
+      "id": "0969783b-9640-4713-bb86-96dbf8244222",
+      "userId": "guest-f186230e",
+      "achievementId": "ach-1",
+      "unlockedAt": "2026-09-28T19:43:15.416Z"
+    },
+    {
+      "id": "759d1b54-90cc-4d4a-af27-9f7d5331cc6c",
+      "userId": "guest-f186230e",
+      "achievementId": "ach-4",
+      "unlockedAt": "2026-09-28T19:43:15.703Z"
+    },
+    {
+      "id": "5f436247-6366-4275-9246-71d8b25abeea",
+      "userId": "guest-f186230e",
+      "achievementId": "ach-2",
+      "unlockedAt": "2026-09-28T19:43:15.875Z"
+    },
+    {
+      "id": "fc84ad89-d69e-4e6e-afdb-f6260497395f",
+      "userId": "guest-111cec84",
+      "achievementId": "ach-1",
+      "unlockedAt": "2026-09-28T19:43:15.968Z"
+    },
+    {
+      "id": "39c3ed46-b836-40f0-aa6f-24d06dbad79f",
+      "userId": "guest-111cec84",
+      "achievementId": "ach-4",
+      "unlockedAt": "2026-09-28T19:43:16.310Z"
+    },
+    {
+      "id": "cc4dcdf7-5ec6-4abd-95f2-ba8a48734731",
+      "userId": "guest-111cec84",
+      "achievementId": "ach-2",
+      "unlockedAt": "2026-09-28T19:43:16.482Z"
+    }
+  ],
+  "weeklyReviews": [],
+  "notifications": [
+    {
+      "id": "notif-4",
+      "userId": "d533479a-ffa1-4576-b0b0-2f0fd34222e7",
+      "title": "Weekly Review Ready",
+      "message": "Your weekly transformation recap is ready to inspect.",
+      "type": "weekly_review",
+      "isRead": false,
+      "createdAt": "2026-09-26T19:52:27.747Z"
+    },
+    {
+      "id": "notif-3",
+      "userId": "d533479a-ffa1-4576-b0b0-2f0fd34222e7",
+      "title": "Streak Milestone 🔥",
+      "message": "You've completed 12 days in a row. Relentless consistency.",
+      "type": "streak",
+      "isRead": true,
+      "createdAt": "2026-09-27T19:52:27.747Z"
+    },
+    {
+      "id": "notif-2",
+      "userId": "d533479a-ffa1-4576-b0b0-2f0fd34222e7",
+      "title": "Daily Reflection",
+      "message": "Time for your evening check-in. Reflect on your wins.",
+      "type": "reminder",
+      "isRead": false,
+      "createdAt": "2026-09-28T18:52:27.747Z"
+    },
+    {
+      "id": "notif-1",
+      "userId": "d533479a-ffa1-4576-b0b0-2f0fd34222e7",
+      "title": "Winter Arc Discipline",
+      "message": "Your Arc is waiting for you. Step into the cold with purpose.",
+      "type": "reminder",
+      "isRead": false,
+      "createdAt": "2026-09-28T19:52:27.747Z"
+    },
+    {
+      "id": "notif-4",
+      "userId": "guest-111cec84",
+      "title": "Weekly Review Ready",
+      "message": "Your weekly transformation recap is ready to inspect.",
+      "type": "weekly_review",
+      "isRead": false,
+      "createdAt": "2026-09-26T19:43:16.781Z"
+    },
+    {
+      "id": "notif-3",
+      "userId": "guest-111cec84",
+      "title": "Streak Milestone 🔥",
+      "message": "You've completed 12 days in a row. Relentless consistency.",
+      "type": "streak",
+      "isRead": true,
+      "createdAt": "2026-09-27T19:43:16.781Z"
+    },
+    {
+      "id": "notif-2",
+      "userId": "guest-111cec84",
+      "title": "Daily Reflection",
+      "message": "Time for your evening check-in. Reflect on your wins.",
+      "type": "reminder",
+      "isRead": false,
+      "createdAt": "2026-09-28T18:43:16.781Z"
+    },
+    {
+      "id": "notif-1",
+      "userId": "guest-111cec84",
+      "title": "Winter Arc Discipline",
+      "message": "Your Arc is waiting for you. Step into the cold with purpose.",
+      "type": "reminder",
+      "isRead": false,
+      "createdAt": "2026-09-28T19:43:16.781Z"
+    },
+    {
+      "id": "notif-4",
+      "userId": "guest-ab0a61d7",
+      "title": "Weekly Review Ready",
+      "message": "Your weekly transformation recap is ready to inspect.",
+      "type": "weekly_review",
+      "isRead": false,
+      "createdAt": "2026-09-26T19:34:11.566Z"
+    },
+    {
+      "id": "notif-3",
+      "userId": "guest-ab0a61d7",
+      "title": "Streak Milestone 🔥",
+      "message": "You've completed 12 days in a row. Relentless consistency.",
+      "type": "streak",
+      "isRead": true,
+      "createdAt": "2026-09-27T19:34:11.566Z"
+    },
+    {
+      "id": "notif-2",
+      "userId": "guest-ab0a61d7",
+      "title": "Daily Reflection",
+      "message": "Time for your evening check-in. Reflect on your wins.",
+      "type": "reminder",
+      "isRead": false,
+      "createdAt": "2026-09-28T18:34:11.563Z"
+    },
+    {
+      "id": "notif-1",
+      "userId": "guest-ab0a61d7",
+      "title": "Winter Arc Discipline",
+      "message": "Your Arc is waiting for you. Step into the cold with purpose.",
+      "type": "reminder",
+      "isRead": false,
+      "createdAt": "2026-09-28T19:34:11.563Z"
+    }
+  ]
+}
